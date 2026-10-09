@@ -1,4 +1,4 @@
-# Password_Generator# Password Generator using Python
+#Password Generator using Python
 
 ## Project Description
 This is a simple Password Generator application developed using Python. It generates random passwords to help users create strong passwords.
